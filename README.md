@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a third-year Software Engineering Student at the University of Ottawa. I have previously worked at the University of Ottawa as a Software Developer, Canadian Bank Note (CBN) as a Systems Administrator and at Evidence Partners as a Software Developer, and am an incoming Software Developer at Trend Micro for the Summer 2022 term.
+
+Contact me 📧
+Send me an email @ jasminekokkat@gmail.com
