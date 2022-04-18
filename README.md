@@ -20,4 +20,4 @@ I am a third-year Software Engineering Student at the University of Ottawa. I ha
 Contact me 📧
 Send me an email @ jasminekokkat@gmail.com
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
+[![Jasmine Kokkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkokkat&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
