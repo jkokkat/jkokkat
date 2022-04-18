@@ -21,3 +21,5 @@ Contact me 📧
 Send me an email @ jasminekokkat@gmail.com
 
 [![Jasmine Kokkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkokkat&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkokkat)](https://github.com/anuraghazra/github-readme-stats)
